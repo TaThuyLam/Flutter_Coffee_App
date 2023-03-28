@@ -1,0 +1,1043 @@
+{
+  "bonus": {
+    "size": [
+      null,
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      },
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      },
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      },
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      },
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      },
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      },
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      },
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      },
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      },
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      },
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      },
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      },
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      },
+      {
+        "L": {
+          "foodKey": "L",
+          "name": "Lớn",
+          "price": 10000
+        },
+        "M": {
+          "foodKey": "M",
+          "name": "Vừa",
+          "price": 6000
+        },
+        "S": {
+          "foodKey": "S",
+          "name": "Nhỏ",
+          "price": 0
+        }
+      }
+    ]
+  },
+  "foods": [
+    
+    {
+      "foodKey": "1",
+      "foodType": "caphe",
+      "image": "phindenda.png",
+      "name": "Phin đen đá",
+      "price": 29000
+    },
+    {
+      "foodKey": "2",
+      "foodType": "caphe",
+      "image": "phinsuada.png",
+      "name": "Phin sữa đá",
+      "price": 29000
+    },
+    {
+      "foodKey": "3",
+      "foodType": "caphe",
+      "image": "bacxiuda.png",
+      "name": "Bạc Xĩu Đá",
+      "price": 29000
+    },
+    {
+      "foodKey": "4",
+      "foodType": "caphe",
+      "image": "phinsuanong.png",
+      "name": "Phin Sữa Nóng",
+      "price": 29000
+    },
+    {
+      "foodKey": "5",
+      "foodType": "caphe",
+      "image": "phindennong.png",
+      "name": "Phin Đen Nóng",
+      "price": 29000
+    },
+    {
+      "foodKey": "6",
+      "foodType": "caphe",
+      "image": "phindikemsua.png",
+      "name": "Phindi Kem Sữa",
+      "price": 39000
+    },
+    {
+      "foodKey": "7",
+      "foodType": "caphe",
+      "image": "phindihanhnhan.png",
+      "name": "Phindi Hạnh Nhân",
+      "price": 39000
+    },
+    {
+      "foodKey": "8",
+      "foodType": "caphe",
+      "image": "phindichoco.png",
+      "name": "Phindi Choco",
+      "price": 39000
+    },
+    {
+      "foodKey": "9",
+      "foodType": "caphe",
+      "image": "latte.png",
+      "name": "Latte",
+      "price": 54000
+    },
+    {
+      "foodKey": "10",
+      "foodType": "caphe",
+      "image": "americano.png",
+      "name": "Americano",
+      "price": 44000
+    },
+    {
+      "foodKey": "11",
+      "foodType": "caphe",
+      "image": "espresso.png",
+      "name": "Espresso",
+      "price": 44000
+    },
+    {
+      "foodKey": "12",
+      "foodType": "caphe",
+      "image": "cappiccino.png",
+      "name": "Cappuchino",
+      "price": 54000
+    },
+    {
+      "foodKey": "13",
+      "foodType": "caphe",
+      "image": "caramelmachiato.png",
+      "name": "Caramel Macchiato",
+      "price": 59000
+    },
+    {
+      "foodKey": "14",
+      "foodType": "caphe",
+      "image": "mochamachiato.png",
+      "name": "Mocha Macchiato",
+      "price": 59000
+    },
+    {
+      "foodKey": "15",
+      "foodType": "banh",
+      "image": "270_crop_PHOMAITRAXANH.jpg",
+      "name": "Bánh phô mai trà xanh",
+      "price": 29000
+    },
+    {
+      "foodKey": "16",
+      "foodType": "banh",
+      "image": "270_crop_CARAMELPHOMAI.jpg",
+      "name": "Bánh caramel phô mai",
+      "price": 29000
+    },
+    {
+      "foodKey": "17",
+      "foodType": "banh",
+      "image": "270_crop_TIRAMISU.jpg",
+      "name": "Bánh tiramisu",
+      "price": 19000
+    },
+    {
+      "foodKey": "18",
+      "foodType": "banh",
+      "image": "270_crop_BANHCHUOI.jpg",
+      "name": "Bánh chuối",
+      "price": 19000
+    },
+    {
+      "foodKey": "19",
+      "foodType": "banh",
+      "image": "270_crop_MOUSSECACAO.png",
+      "name": "Bánh mouse cacao",
+      "price": 29000
+    },
+    {
+      "foodKey": "20",
+      "foodType": "banh",
+      "image": "270_crop_PHOMAICHANHDAY.jpg",
+      "name": "Bánh phô mai chanh dây",
+      "price": 29000
+    },
+    {
+      "foodKey": "21",
+      "foodType": "banh",
+      "image": "270_crop_SOCOLAHL.png",
+      "name": "Bánh socola",
+      "price": 29000
+    },
+    {
+      "foodKey": "22",
+      "foodType": "banh",
+      "image": "270_crop_MOUSSEDAO.png",
+      "name": "Bánh mousse đào",
+      "price": 29000
+    }
+  ],
+  "orders": {
+    "-N3yMUFVn_ybjrJ5kua-": {
+      "date": "07/06/2022",
+      "foods": [
+        {
+          "foodKey": "1",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 3,
+          "sum": 87000
+        }
+      ],
+      "idOrder": "-N3yMUFVn_ybjrJ5kua-",
+      "idUserOrder": "BtP1lBqPLHX38pKMJLWbFxMtINm1",
+      "nameTable": "1A",
+      "time": "08:32:17",
+      "total": 87000
+    },
+    "-N3yQm5m-LW6dpRU4cDM": {
+      "date": "07/06/2022",
+      "foods": [
+        {
+          "foodKey": "2",
+          "name": "Phin sữa đá",
+          "price": 29000,
+          "quantity": 3,
+          "sum": 87000
+        },
+        {
+          "foodKey": "5",
+          "name": "Phin Đen Nóng",
+          "price": 29000,
+          "quantity": 2,
+          "sum": 58000
+        }
+      ],
+      "idOrder": "-N3yQm5m-LW6dpRU4cDM",
+      "idUserOrder": "BtP1lBqPLHX38pKMJLWbFxMtINm1",
+      "nameTable": "1A",
+      "time": "08:51:09",
+      "total": 145000
+    },
+    "-N3yR0NRdb0jXKcNT-0r": {
+      "date": "07/06/2022",
+      "foods": [
+        {
+          "foodKey": "3",
+          "name": "Bạc Xĩu Đá",
+          "price": 29000,
+          "quantity": 2,
+          "sum": 58000
+        }
+      ],
+      "idOrder": "-N3yR0NRdb0jXKcNT-0r",
+      "idUserOrder": "BtP1lBqPLHX38pKMJLWbFxMtINm1",
+      "nameTable": "1B",
+      "time": "08:52:00",
+      "total": 58000
+    },
+    "-N3yR31SDYBp9HJ4ahbQ": {
+      "date": "07/06/2022",
+      "foods": [
+        {
+          "foodKey": "3",
+          "name": "Bạc Xĩu Đá",
+          "price": 29000,
+          "quantity": 5,
+          "sum": 145000
+        }
+      ],
+      "idOrder": "-N3yR31SDYBp9HJ4ahbQ",
+      "idUserOrder": "BtP1lBqPLHX38pKMJLWbFxMtINm1",
+      "nameTable": "1C",
+      "time": "08:52:13",
+      "total": 145000
+    },
+    "-N4kzyYNphjJSrLUl-n_": {
+      "date": "17/06/2022",
+      "foods": [
+        {
+          "foodKey": "1",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 2,
+          "sum": 58000
+        },
+        {
+          "foodKey": "2",
+          "name": "Phin sữa đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        }
+      ],
+      "idOrder": "-N4kzyYNphjJSrLUl-n_",
+      "idUserOrder": "BtP1lBqPLHX38pKMJLWbFxMtINm1",
+      "nameTable": "1D",
+      "time": "04:29:53",
+      "total": 87000
+    },
+    "-N4l0lEeBIIx7oS-9UEY": {
+      "date": "17/06/2022",
+      "foods": [
+        {
+          "foodKey": "2",
+          "name": "Phin sữa đá",
+          "price": 29000,
+          "quantity": 2,
+          "sum": 58000
+        },
+        {
+          "foodKey": "3",
+          "name": "Bạc Xĩu Đá",
+          "price": 29000,
+          "quantity": 2,
+          "sum": 58000
+        }
+      ],
+      "idOrder": "-N4l0lEeBIIx7oS-9UEY",
+      "idUserOrder": "BtP1lBqPLHX38pKMJLWbFxMtINm1",
+      "nameTable": "1D",
+      "time": "04:37:51",
+      "total": 116000
+    },
+    "-N4l1hzZ0kbQ6wKEXtb0": {
+      "date": "17/06/2022",
+      "foods": [
+        {
+          "foodKey": "1",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        },
+        {
+          "foodKey": "3",
+          "name": "Bạc Xĩu Đá",
+          "price": 29000,
+          "quantity": 2,
+          "sum": 58000
+        }
+      ],
+      "idOrder": "-N4l1hzZ0kbQ6wKEXtb0",
+      "idUserOrder": "BtP1lBqPLHX38pKMJLWbFxMtINm1",
+      "nameTable": "1D",
+      "time": "04:42:03",
+      "total": 87000
+    },
+    "-N5-7Lk6YZOLdMv8n3Pi": {
+      "date": "20/06/2022",
+      "foods": [
+        {
+          "foodKey": "12",
+          "name": "Cappuchino",
+          "price": 54000,
+          "quantity": 10,
+          "sum": 540000
+        },
+        {
+          "foodKey": "2",
+          "name": "Phin sữa đá",
+          "price": 29000,
+          "quantity": 10,
+          "sum": 290000
+        },
+        {
+          "foodKey": "3",
+          "name": "Bạc Xĩu Đá",
+          "price": 29000,
+          "quantity": 10,
+          "sum": 290000
+        }
+      ],
+      "idOrder": "-N5-7Lk6YZOLdMv8n3Pi",
+      "idUserOrder": "BtP1lBqPLHX38pKMJLWbFxMtINm1",
+      "nameTable": "1D",
+      "time": "03:00:00",
+      "total": 1120000
+    },
+    "-N54l8fTvtSzTUpaYflb": {
+      "date": "21/06/2022",
+      "foods": [
+        {
+          "foodKey": "2",
+          "name": "Phin sữa đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        },
+        {
+          "foodKey": "1",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        },
+        {
+          "foodKey": "2",
+          "name": "Phin sữa đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        },
+        {
+          "foodKey": "3",
+          "name": "Bạc Xĩu Đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        },
+        {
+          "foodKey": "4",
+          "name": "Phin Sữa Nóng",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        },
+        {
+          "foodKey": "5",
+          "name": "Phin Đen Nóng",
+          "price": 29000,
+          "quantity": 2,
+          "sum": 58000
+        },
+        {
+          "foodKey": "6",
+          "name": "Phindi Kem Sữa",
+          "price": 39000,
+          "quantity": 3,
+          "sum": 117000
+        },
+        {
+          "foodKey": "8",
+          "name": "Phindi Choco",
+          "price": 39000,
+          "quantity": 1,
+          "sum": 39000
+        }
+      ],
+      "idOrder": "-N54l8fTvtSzTUpaYflb",
+      "idUserOrder": "RJLKXfglvGfPkoD0jHjwhIVx6ct2",
+      "nameTable": "1C",
+      "time": "05:17:20",
+      "total": 388000
+    },
+    "-N58gApqBsjTgtCLP5Nr": {
+      "date": "22/06/2022",
+      "foods": [
+        {
+          "foodKey": "1",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        },
+        {
+          "foodKey": "4",
+          "name": "Phin Sữa Nóng",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        }
+      ],
+      "idOrder": "-N58gApqBsjTgtCLP5Nr",
+      "idUserOrder": "hMVceTUU2wOgj3Cuvoo9X7hNgmB2",
+      "nameTable": "1D",
+      "time": "11:33:01",
+      "total": 58000
+    },
+    "-N59YZ98xab_viXJg7pp": {
+      "date": "22/06/2022",
+      "foods": [
+        {
+          "foodKey": "2",
+          "ghichu": "",
+          "name": "Phin sữa đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        }
+      ],
+      "idOrder": "-N59YZ98xab_viXJg7pp",
+      "idUserOrder": "BU4iD5V9SgM1rJWrjWKfvCcYPI12",
+      "nameTable": "1F",
+      "time": "03:35:51",
+      "total": 29000
+    },
+    "-N5AF4eU0asuWXPNq6WV": {
+      "date": "22/06/2022",
+      "foods": [
+        {
+          "foodKey": "1",
+          "ghichu": "",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        },
+        {
+          "foodKey": "16",
+          "ghichu": "",
+          "name": "Bánh caramel phô mai",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        }
+      ],
+      "idOrder": "-N5AF4eU0asuWXPNq6WV",
+      "idUserOrder": "hMVceTUU2wOgj3Cuvoo9X7hNgmB2",
+      "nameTable": "1E",
+      "time": "06:49:26",
+      "total": 58000
+    },
+    "-N5Ao0nbs5XflZGT1zc8": {
+      "date": "22/06/2022",
+      "foods": [
+        {
+          "foodKey": "1",
+          "ghichu": "ít đường, ít đá, ",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        }
+      ],
+      "idOrder": "-N5Ao0nbs5XflZGT1zc8",
+      "idUserOrder": "hMVceTUU2wOgj3Cuvoo9X7hNgmB2",
+      "nameTable": "1C",
+      "time": "10:44:03",
+      "total": 29000
+    },
+    "-N5AoV9OmMgFRMvgZUWp": {
+      "date": "22/06/2022",
+      "foods": [
+        {
+          "foodKey": "1",
+          "ghichu": "ít đá, ",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        },
+        {
+          "foodKey": "3",
+          "ghichu": "",
+          "name": "Bạc Xĩu Đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        },
+        {
+          "foodKey": "21",
+          "ghichu": "",
+          "name": "Bánh socola",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        }
+      ],
+      "idOrder": "-N5AoV9OmMgFRMvgZUWp",
+      "idUserOrder": "hMVceTUU2wOgj3Cuvoo9X7hNgmB2",
+      "nameTable": "1C",
+      "time": "09:29:39",
+      "total": 87000
+    },
+    "-N5AoaFTvG-CPluKCHz2": {
+      "date": "22/06/2022",
+      "foods": [
+        {
+          "foodKey": "1",
+          "ghichu": "ít đường, ",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        },
+        {
+          "foodKey": "2",
+          "ghichu": "",
+          "name": "Phin sữa đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        }
+      ],
+      "idOrder": "-N5AoaFTvG-CPluKCHz2",
+      "idUserOrder": "hMVceTUU2wOgj3Cuvoo9X7hNgmB2",
+      "nameTable": "1D",
+      "time": "03:03:59",
+      "total": 29000
+    },
+    "-N5EEx3gUh5SA9pLhlUl": {
+      "date": "23/06/2022",
+      "foods": [
+        {
+          "foodKey": "1",
+          "ghichu": "ít đường, ít đá, ",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 4,
+          "sum": 116000
+        }
+      ],
+      "idOrder": "-N5EEx3gUh5SA9pLhlUl",
+      "idUserOrder": "BtP1lBqPLHX38pKMJLWbFxMtINm1",
+      "nameTable": "1E",
+      "time": "01:28:16",
+      "total": 116000
+    },
+    "-N5EGVJLc6mEoKaQyD-_": {
+      "date": "23/06/2022",
+      "foods": [
+        {
+          "foodKey": "4",
+          "ghichu": "giáo 4 giờ chiều",
+          "name": "Phin Sữa Nóng",
+          "price": 29000,
+          "quantity": 2,
+          "sum": 58000
+        }
+      ],
+      "idOrder": "-N5EGVJLc6mEoKaQyD-_",
+      "idUserOrder": "BtP1lBqPLHX38pKMJLWbFxMtINm1",
+      "nameTable": "1E",
+      "time": "01:34:23",
+      "total": 58000
+    },
+    "-NQDuPzXpleCj--0Nahm": {
+      "date": "11/03/2023",
+      "foods": [
+        {
+          "foodKey": "1",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        },
+        {
+          "foodKey": "2",
+          "name": "Phin sữa đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        }
+      ],
+      "idOrder": "-NQDuPzXpleCj--0Nahm",
+      "idUserOrder": "BtP1lBqPLHX38pKMJLWbFxMtINm1",
+      "nameTable": "1B",
+      "time": "07:06:14",
+      "total": 116000
+    }
+  },
+  "tables": {
+    "1A": {
+      "floor": "tầng 1",
+      "foods": [
+        {
+          "foodKey": "2",
+          "name": "Phin sữa đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        }
+      ],
+      "number_table": "1A",
+      "time": "09:21:09",
+      "totalPrice": 29000
+    },
+    "1B": {
+      "floor": "tầng 1",
+      "number_table": "1B",
+      "time": "",
+      "totalPrice": 0
+    },
+    "1C": {
+      "floor": "tầng 1",
+      "foods": [
+        {
+          "foodKey": "1",
+          "ghichu": "ít đường, ít đá, ",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        }
+      ],
+      "number_table": "1C",
+      "time": "01:15:28",
+      "totalPrice": 29000
+    },
+    "1D": {
+      "floor": "tầng 1",
+      "foods": [
+        {
+          "foodKey": "1",
+          "ghichu": "",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        }
+      ],
+      "number_table": "1D",
+      "time": "01:25:24",
+      "totalPrice": 29000
+    },
+    "1E": {
+      "floor": "tầng 1",
+      "foods": [
+        {
+          "foodKey": "1",
+          "ghichu": "",
+          "name": "Phin đen đá",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        },
+        {
+          "foodKey": "5",
+          "ghichu": "",
+          "name": "Phin Đen Nóng",
+          "price": 29000,
+          "quantity": 1,
+          "sum": 29000
+        }
+      ],
+      "number_table": "1E",
+      "time": "11:29:51",
+      "totalPrice": 58000
+    },
+    "1F": {
+      "floor": "tầng 1",
+      "number_table": "1F",
+      "time": "",
+      "totalPrice": 0
+    },
+    "1G": {
+      "floor": "tầng 1",
+      "number_table": "1G",
+      "time": "",
+      "totalPrice": 0
+    },
+    "2A": {
+      "floor": "tầng 2",
+      "number_table": "2A",
+      "time": "",
+      "totalPrice": 0
+    },
+    "2B": {
+      "floor": "tầng 2",
+      "number_table": "2B",
+      "time": "",
+      "totalPrice": 0
+    },
+    "2C": {
+      "floor": "tầng 2",
+      "number_table": "2C",
+      "time": "",
+      "totalPrice": 0
+    },
+    "2D": {
+      "floor": "tầng 2",
+      "number_table": "2D",
+      "time": "",
+      "totalPrice": 0
+    },
+    "2E": {
+      "floor": "tầng 2",
+      "number_table": "2E",
+      "time": "",
+      "totalPrice": 0
+    },
+    "2F": {
+      "floor": "tầng 2",
+      "number_table": "2F",
+      "time": "",
+      "totalPrice": 0
+    }
+  },
+  "users": {
+    "BU4iD5V9SgM1rJWrjWKfvCcYPI12": {
+      "address": "fhgfhfj",
+      "email": "thuyhang@gmail.com",
+      "name": "thuys hang",
+      "phone": "0866031765"
+    },
+    "BtP1lBqPLHX38pKMJLWbFxMtINm1": {
+      "address": "HaNoi",
+      "email": "lamta@gmail.com",
+      "name": "Ta Thuy Lam",
+      "phone": "0123456789"
+    },
+    "fiZeQUPNByQ3qEIjDSCFjbmeLUk2": {
+      "address": "175B Cao Thắng",
+      "email": "l@gmail.com",
+      "name": "a",
+      "phone": "0123456789"
+    },
+    "hMVceTUU2wOgj3Cuvoo9X7hNgmB2": {
+      "address": "Su Van Hanh",
+      "email": "thao@gmail.com",
+      "name": "Dang Phuong Thao",
+      "phone": "0815265001"
+    }
+  
+  },
+  "FoodType": [
+    {
+      "id": "caphe",
+      "name": "Cà phê",
+      "image":"assets/image/cate.png"
+    },
+    
+    {
+      "id": "caphetruyenthong",
+      "name": "Cà phê truyền thống",
+      "image":"assets/image/cate.png"
+    },
+    {
+      "id": "phindi",
+      "name": "PhinDi",
+      "image":"assets/image/cate.png"
+    },
+    {
+      "id": "daxay",
+      "name": "Đá say",
+      "image":"assets/image/cate.png"
+    },
+    {
+      "id": "banh",
+      "name": "Bánh ngọt",
+      "image":"assets/image/cate_bread.png"
+    },
+    {
+      "id": "banhmi",
+      "name": "Bánh mì",
+      "image":"assets/image/cate_bread.png"
+    }
+  ]
+      
+  
+}
